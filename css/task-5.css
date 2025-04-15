@@ -1,0 +1,35 @@
+.change-color{
+    width: 148px;
+    height: 40px;
+    background-color: #4D5AE5;
+    border: none;
+    border-radius: 8px;
+    font-family: Montserrat;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0,04em;
+    color: #FFFFFF;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: #333;
+}
+.widget{
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    width: 345px;
+    height: 280px;
+    display: flex;
+    gap : 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 300px;
+}
